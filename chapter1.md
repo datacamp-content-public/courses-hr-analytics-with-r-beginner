@@ -13,7 +13,7 @@ xp: 100
 skills: 1
 ```
 
-We use the 
+In every DataCamp exercise, you are writing and running real R code. You won’t just learn the theory, you’ll get hands-on experience exploring real data sets in courses covering the entire data science workflow.
 
 `@instructions`
 
